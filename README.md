@@ -1,0 +1,3 @@
+# Summer Analytics 2024 - Week 1
+
+This project is part of the Summer Analytics 2024 program, focusing on basic data analysis using Python. The dataset contains technical specifications of various cars, and the task involved performing exploratory data analysis using pandas, NumPy, matplotlib, and seaborn. Key insights include identifying the car with the highest horsepower, analyzing fuel efficiency trends, and visualizing relationships between attributes like horsepower, weight, and origin. The project concludes with bonus tasks including visualization and identifying consistent car models based on MPG data.
